@@ -1,0 +1,38 @@
+.menu{
+    border: 1px solid black;
+    width: 1000px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    background-color: bisque;
+}
+.heading {
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: rgb(107, 107, 40);
+}
+
+.desc{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    word-spacing: 2px;
+}
+
+table, td, tr,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 60%;
+    text-align:center;
+    vertical-align: middle;
+}
+a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+a:hover{
+    color: green;
+}
