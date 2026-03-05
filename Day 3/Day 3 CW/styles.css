@@ -1,0 +1,22 @@
+body{
+  padding: 25px;
+}
+.title {
+    color: #5C6AC4;
+    text-align: right;
+    font-family: Sans-Serif;
+}
+
+.para {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+table,th,td {
+  border :1px solid black;
+  border-collapse: collapse;
+  width: 50%;
+  text-align: center;
+  vertical-align: center;
+} 
